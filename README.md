@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/asratul2006-afk/leetcode/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/asratul2006-afk/leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/asratul2006-afk/leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/asratul2006-afk/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/asratul2006-afk/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
