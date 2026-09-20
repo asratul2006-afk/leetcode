@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/asratul2006-afk/leetcode/tree/master/0796-rotate-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/asratul2006-afk/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asratul2006-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/asratul2006-afk/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
