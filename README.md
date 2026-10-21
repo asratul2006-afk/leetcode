@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/asratul2006-afk/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/asratul2006-afk/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/asratul2006-afk/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asratul2006-afk/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/asratul2006-afk/leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/asratul2006-afk/leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/asratul2006-afk/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/asratul2006-afk/leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
