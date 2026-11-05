@@ -58,17 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asratul2006-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asratul2006-afk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asratul2006-afk/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asratul2006-afk/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asratul2006-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asratul2006-afk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asratul2006-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asratul2006-afk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asratul2006-afk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asratul2006-afk/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
