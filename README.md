@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/asratul2006-afk/leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/asratul2006-afk/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/asratul2006-afk/leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/asratul2006-afk/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/asratul2006-afk/leetcode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asratul2006-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/asratul2006-afk/leetcode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/asratul2006-afk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asratul2006-afk/leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/asratul2006-afk/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
